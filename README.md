@@ -8,6 +8,7 @@
 *  Ability to return all persisted inputs.
 
 # Technical Specifications
+*  Uses Swagger to test API easily
 *  Utilizes CLEAN architecture
 *  Written in .NetCore 6
 *  Handles adding, updating, soft deleting and getting data for users names and addresses.
