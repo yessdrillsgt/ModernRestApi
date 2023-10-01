@@ -4,7 +4,7 @@
 *  Name field is considered a unique set
 *  Allows updates to inputs in memory
 *  Allows creation of inputs to store in memory
-*  Allows **soft** deletes to those inputs.
+*  Allows __soft__ deletes to those inputs.
 *  Ability to return all persisted inputs.
 
 # Technical Specifications
