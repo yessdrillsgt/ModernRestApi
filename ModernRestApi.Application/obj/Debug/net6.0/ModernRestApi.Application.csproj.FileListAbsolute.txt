@@ -1,0 +1,15 @@
+D:\source\repos\ModernRestApi\ModernRestApi.Application\bin\Debug\net6.0\ModernRestApi.Application.deps.json
+D:\source\repos\ModernRestApi\ModernRestApi.Application\bin\Debug\net6.0\ModernRestApi.Application.dll
+D:\source\repos\ModernRestApi\ModernRestApi.Application\bin\Debug\net6.0\ref\ModernRestApi.Application.dll
+D:\source\repos\ModernRestApi\ModernRestApi.Application\bin\Debug\net6.0\ModernRestApi.Application.pdb
+D:\source\repos\ModernRestApi\ModernRestApi.Application\bin\Debug\net6.0\ModernRestApi.Domain.dll
+D:\source\repos\ModernRestApi\ModernRestApi.Application\bin\Debug\net6.0\ModernRestApi.Domain.pdb
+D:\source\repos\ModernRestApi\ModernRestApi.Application\obj\Debug\net6.0\ModernRestApi.Application.csproj.AssemblyReference.cache
+D:\source\repos\ModernRestApi\ModernRestApi.Application\obj\Debug\net6.0\ModernRestApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\ModernRestApi\ModernRestApi.Application\obj\Debug\net6.0\ModernRestApi.Application.AssemblyInfoInputs.cache
+D:\source\repos\ModernRestApi\ModernRestApi.Application\obj\Debug\net6.0\ModernRestApi.Application.AssemblyInfo.cs
+D:\source\repos\ModernRestApi\ModernRestApi.Application\obj\Debug\net6.0\ModernRestApi.Application.csproj.CoreCompileInputs.cache
+D:\source\repos\ModernRestApi\ModernRestApi.Application\obj\Debug\net6.0\ModernRestApi.Application.csproj.CopyComplete
+D:\source\repos\ModernRestApi\ModernRestApi.Application\obj\Debug\net6.0\ModernRestApi.Application.dll
+D:\source\repos\ModernRestApi\ModernRestApi.Application\obj\Debug\net6.0\ref\ModernRestApi.Application.dll
+D:\source\repos\ModernRestApi\ModernRestApi.Application\obj\Debug\net6.0\ModernRestApi.Application.pdb

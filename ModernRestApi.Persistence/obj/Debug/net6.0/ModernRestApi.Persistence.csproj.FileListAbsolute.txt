@@ -1,0 +1,17 @@
+D:\source\repos\ModernRestApi\ModernRestApi.Persistence\bin\Debug\net6.0\ModernRestApi.Persistence.deps.json
+D:\source\repos\ModernRestApi\ModernRestApi.Persistence\bin\Debug\net6.0\ModernRestApi.Persistence.dll
+D:\source\repos\ModernRestApi\ModernRestApi.Persistence\bin\Debug\net6.0\ref\ModernRestApi.Persistence.dll
+D:\source\repos\ModernRestApi\ModernRestApi.Persistence\bin\Debug\net6.0\ModernRestApi.Persistence.pdb
+D:\source\repos\ModernRestApi\ModernRestApi.Persistence\bin\Debug\net6.0\ModernRestApi.Application.dll
+D:\source\repos\ModernRestApi\ModernRestApi.Persistence\bin\Debug\net6.0\ModernRestApi.Domain.dll
+D:\source\repos\ModernRestApi\ModernRestApi.Persistence\bin\Debug\net6.0\ModernRestApi.Application.pdb
+D:\source\repos\ModernRestApi\ModernRestApi.Persistence\bin\Debug\net6.0\ModernRestApi.Domain.pdb
+D:\source\repos\ModernRestApi\ModernRestApi.Persistence\obj\Debug\net6.0\ModernRestApi.Persistence.csproj.AssemblyReference.cache
+D:\source\repos\ModernRestApi\ModernRestApi.Persistence\obj\Debug\net6.0\ModernRestApi.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\ModernRestApi\ModernRestApi.Persistence\obj\Debug\net6.0\ModernRestApi.Persistence.AssemblyInfoInputs.cache
+D:\source\repos\ModernRestApi\ModernRestApi.Persistence\obj\Debug\net6.0\ModernRestApi.Persistence.AssemblyInfo.cs
+D:\source\repos\ModernRestApi\ModernRestApi.Persistence\obj\Debug\net6.0\ModernRestApi.Persistence.csproj.CoreCompileInputs.cache
+D:\source\repos\ModernRestApi\ModernRestApi.Persistence\obj\Debug\net6.0\ModernRestApi.Persistence.csproj.CopyComplete
+D:\source\repos\ModernRestApi\ModernRestApi.Persistence\obj\Debug\net6.0\ModernRestApi.Persistence.dll
+D:\source\repos\ModernRestApi\ModernRestApi.Persistence\obj\Debug\net6.0\ref\ModernRestApi.Persistence.dll
+D:\source\repos\ModernRestApi\ModernRestApi.Persistence\obj\Debug\net6.0\ModernRestApi.Persistence.pdb
